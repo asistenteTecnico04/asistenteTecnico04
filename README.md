@@ -74,13 +74,13 @@ Desarrollador de software en la Universidad Regional Autónoma de los Andes "UNI
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="60%">
+<table align="center"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asistenteTecnico04&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=asistenteTecnico04&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asistenteTecnico04&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asistenteTecnico04&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
 </td></tr></table>  
 
@@ -96,6 +96,3 @@ Desarrollador de software en la Universidad Regional Autónoma de los Andes "UNI
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
