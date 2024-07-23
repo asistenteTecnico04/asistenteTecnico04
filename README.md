@@ -74,7 +74,7 @@ Desarrollador de software en la Universidad Regional Autónoma de los Andes "UNI
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=asistenteTecnico04&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
