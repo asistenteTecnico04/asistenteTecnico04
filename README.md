@@ -23,7 +23,7 @@ Desarrollador de software en la Universidad Regional Autónoma de los Andes "UNI
 <br/>  
 
 
-## Rapidfire  
+## Actividades  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 Desarrollo de software  
