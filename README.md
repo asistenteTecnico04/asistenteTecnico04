@@ -38,7 +38,7 @@ Desarrollador de software en la Universidad Regional Autónoma de los Andes "UNI
 - ⚡Capacitación   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/asistenteTecnico04/asistenteTecnico04/main/uniandes_logo.png" align="center" style="width: 100%" />
